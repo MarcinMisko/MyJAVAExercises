@@ -1,0 +1,3 @@
+Test nio string
+multi line
+yup!
