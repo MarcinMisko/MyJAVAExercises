@@ -1,54 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bbb59b63-dbe0-47c2-a03d-a509a45b87b2" name="Default" comment="Refactored exercises and added Maven libraries.">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_7_9.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_7_9.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_assertj_assertj_core_3_8_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_2_12_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_2_6.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__pl_pragmatists_JUnitParams_1_1_1.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+    <list default="true" id="bbb59b63-dbe0-47c2-a03d-a509a45b87b2" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/MarcinMiśkoExercises.iml" afterPath="$PROJECT_DIR$/MarcinMiśkoExercises.iml" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/collections/map/MapKeySetIterationExample.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/constructor/Main.java" afterPath="$PROJECT_DIR$/src/main/java/constructor/Main.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/enums/using_enums/UsingCoffeSizes.java" afterPath="$PROJECT_DIR$/src/main/java/enums/using_enums/UsingCoffeSizes.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/enums/using_enums/UsingCoffeeSizesWithCapacity.java" afterPath="$PROJECT_DIR$/src/main/java/enums/using_enums/UsingCoffeeSizesWithCapacity.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/exception/with_checked_exceptions/Calculator.java" afterPath="$PROJECT_DIR$/src/main/java/exception/with_checked_exceptions/Calculator.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/exception/with_checked_exceptions/MainWithExceptionDeclaration.java" afterPath="$PROJECT_DIR$/src/main/java/exception/with_checked_exceptions/MainWithExceptionDeclaration.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/exception/with_checked_exceptions/MainWithExceptionHandling.java" afterPath="$PROJECT_DIR$/src/main/java/exception/with_checked_exceptions/MainWithExceptionHandling.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/exception/with_unchecked_exceptions/Calculator.java" afterPath="$PROJECT_DIR$/src/main/java/exception/with_unchecked_exceptions/Calculator.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/generics/converters/ListToSimpleLinkedListConverter.java" afterPath="$PROJECT_DIR$/src/main/java/generics/converters/ListToSimpleLinkedListConverter.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/generics/converters/SimpleLinkedListToArrayListConverter.java" afterPath="$PROJECT_DIR$/src/main/java/generics/converters/SimpleLinkedListToArrayListConverter.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/generics/converters/WordToXmlConverter.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/java8/examples/FindDuplicateMapValues.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/java8/live_examples/FilterExample.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/java8/live_examples/FlatmapExample.java" afterPath="$PROJECT_DIR$/src/main/java/java8/live_examples/FlatmapExample.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/java8/live_examples/JointExample1.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/java8/live_examples/JointExample2.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/java8/live_examples/LambdaMapExample.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/java8/live_examples/MapCreationExample.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/java8/live_examples/OptionalExample.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/java8/live_examples/StreamExample.java" afterPath="$PROJECT_DIR$/src/main/java/java8/live_examples/StreamExample.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/java8/live_examples/common/Employee.java" afterPath="$PROJECT_DIR$/src/main/java/java8/live_examples/common/Employee.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/polymorphism/array/covariance/ArrayCovariance.java" afterPath="$PROJECT_DIR$/src/main/java/polymorphism/array/covariance/ArrayCovariance.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/polymorphism/array/covariance/SafeArrayCovariance.java" afterPath="$PROJECT_DIR$/src/main/java/polymorphism/array/covariance/SafeArrayCovariance.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/polymorphism/interfaces/using_constants/Main.java" afterPath="$PROJECT_DIR$/src/main/java/polymorphism/interfaces/using_constants/Main.java" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/builder/BuilderNutritionFacts.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/observer/AccidentDispatcher.java" afterPath="$PROJECT_DIR$/src/test/java/designPatterns/observer/AccidentDispatcher.java" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/observer/AccidentDispatcherTest.java" afterPath="$PROJECT_DIR$/src/test/java/designPatterns/observer/AccidentDispatcherTest.java" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/observer/AgentAbw.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/observer/Ambulance.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/observer/ObserverExample.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/observer/Statistician.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/strategy/ducks/ModelDuckTest.java" afterPath="$PROJECT_DIR$/src/test/java/strategy/ducks/ModelDuckTest.java" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/strategy/ducks/RocketDuckTest.java" afterPath="$PROJECT_DIR$/src/test/java/strategy/ducks/RocketDuckTest.java" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/strategy/ducks/RubberDuckTest.java" afterPath="$PROJECT_DIR$/src/test/java/strategy/ducks/RubberDuckTest.java" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/strategy/ducks/WildDuckTest.java" afterPath="$PROJECT_DIR$/src/test/java/strategy/ducks/WildDuckTest.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -60,92 +14,18 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ModelDuckTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/strategy/ducks/ModelDuckTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="12" column="10" lean-forward="false" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/constructor/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Pond.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/designPatterns/strategyPattern/Pond.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Employee.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/java8/live_examples/common/Employee.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="17" lean-forward="false" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ArrayCovariance.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/polymorphism/array/covariance/ArrayCovariance.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="118">
-              <caret line="12" column="14" lean-forward="false" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="RubberDuck.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/designPatterns/strategyPattern/ducks/RubberDuck.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FlyingStrategy.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/designPatterns/strategyPattern/flying/FlyingStrategy.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="NoFlying.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/designPatterns/strategyPattern/flying/NoFlying.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FindInProjectRecents">
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>C:\Users\Aneta\Desktop\PROGRANOWANIE\GIT\GitHub2\MyJAVAExercises</dir>
+    </dirStrings>
   </component>
   <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
@@ -539,6 +419,14 @@
       <option name="presentableId" value="Default" />
       <updated>1528544982008</updated>
     </task>
+    <task id="LOCAL-00001" summary="Refactored exercises and added Maven libraries.">
+      <created>1528981291142</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1528981291142</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -550,7 +438,7 @@
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32685512" sideWeight="0.503096" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32685512" sideWeight="0.503096" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32972136" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3286219" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32685512" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -919,22 +807,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/designPatterns/strategyPattern/flying/FlyingStrategy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/designPatterns/strategyPattern/flying/NoFlying.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/java8/live_examples/MapCreationExample.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -944,14 +816,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/designPatterns/strategyPattern/ducks/WildDuck.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/designPatterns/strategyPattern/ducks/RubberDuck.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
@@ -996,7 +860,7 @@
         <state relative-caret-position="136">
           <caret line="12" column="10" lean-forward="false" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1029,6 +893,30 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="118">
           <caret line="12" column="14" lean-forward="false" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/designPatterns/strategyPattern/ducks/RubberDuck.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/designPatterns/strategyPattern/flying/FlyingStrategy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/designPatterns/strategyPattern/flying/NoFlying.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
           <folding />
         </state>
       </provider>
