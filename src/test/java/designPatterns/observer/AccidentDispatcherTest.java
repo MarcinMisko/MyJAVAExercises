@@ -1,4 +1,4 @@
-package observer;
+package designPatterns.observer;
 
 import org.junit.Before;
 import org.junit.Test;

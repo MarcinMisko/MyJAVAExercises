@@ -1,6 +1,7 @@
 package exception.with_checked_exceptions;
 
-import pl.com.empas.java_introductory_course.exception.my_exceptions.MyException;
+
+import exception.my_exceptions.MyException;
 
 public class MainWithExceptionDeclaration {
 

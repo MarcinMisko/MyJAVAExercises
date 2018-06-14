@@ -1,6 +1,7 @@
 package exception.with_unchecked_exceptions;
 
-import pl.com.empas.java_introductory_course.exception.my_exceptions.MyRuntimeException;
+
+import exception.my_exceptions.MyRuntimeException;
 
 public class Calculator {
 

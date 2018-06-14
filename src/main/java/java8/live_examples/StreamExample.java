@@ -1,6 +1,7 @@
 package java8.live_examples;
 
-import pl.com.empas.java_introductory_course.java8.live_examples.common.Employee;
+
+import java8.live_examples.common.Employee;
 
 import java.util.stream.Stream;
 

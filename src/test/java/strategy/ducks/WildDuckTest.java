@@ -1,11 +1,13 @@
 package strategy.ducks;
 
+import designPatterns.strategyPattern.ducks.AdjustibleDuck;
+import designPatterns.strategyPattern.flying.NoFlying;
+import designPatterns.strategyPattern.flying.WingedFlying;
+import designPatterns.strategyPattern.quacking.NoQuacking;
+import designPatterns.strategyPattern.quacking.NormalQuacking;
 import org.junit.Assert;
 import org.junit.Test;
-import pl.sda.designpatterns.strategy.flying.NoFlying;
-import pl.sda.designpatterns.strategy.flying.WingedFlying;
-import pl.sda.designpatterns.strategy.quacking.NoQuacking;
-import pl.sda.designpatterns.strategy.quacking.NormalQuacking;
+
 
 public class WildDuckTest {
     private AdjustibleDuck adjustibleDuck;

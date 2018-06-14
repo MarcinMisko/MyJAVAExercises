@@ -1,6 +1,7 @@
 package enums.using_enums;
 
-import pl.com.empas.java_introductory_course.enums.simple.CoffeeSizes;
+
+import enums.simple.CoffeeSizes;
 
 public class UsingCoffeSizes {
 

@@ -1,6 +1,7 @@
 package polymorphism.interfaces.using_constants;
 
-import pl.com.empas.java_introductory_course.polymorphism.interfaces.constant.MathConstants;
+
+import polymorphism.interfaces.constant.MathConstants;
 
 public class Main {
 

@@ -1,6 +1,7 @@
 package enums.using_enums;
 
-import pl.com.empas.java_introductory_course.enums.average.CoffeeSizesWithCapacity;
+
+import enums.average.CoffeeSizesWithCapacity;
 
 public class UsingCoffeeSizesWithCapacity {
 

@@ -1,9 +1,10 @@
 package constructor;
 
-import pl.com.empas.java_introductory_course.constructor.model.Car;
-import pl.com.empas.java_introductory_course.constructor.model.RacingCar;
-import pl.com.empas.java_introductory_course.constructor.model.Root;
-import pl.com.empas.java_introductory_course.constructor.model.RootGrandson;
+
+import constructor.model.Car;
+import constructor.model.RacingCar;
+import constructor.model.Root;
+import constructor.model.RootGrandson;
 
 public class Main {
 

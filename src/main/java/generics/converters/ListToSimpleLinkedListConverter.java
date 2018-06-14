@@ -1,6 +1,7 @@
 package generics.converters;
 
-import pl.com.empas.java_introductory_course.generics.collections.SimpleLinkedList;
+
+import generics.collections.SimpleLinkedList;
 
 import java.util.Arrays;
 import java.util.List;

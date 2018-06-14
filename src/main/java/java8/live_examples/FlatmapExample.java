@@ -1,7 +1,8 @@
 package java8.live_examples;
 
-import pl.com.empas.java_introductory_course.java8.live_examples.common.Departament;
-import pl.com.empas.java_introductory_course.java8.live_examples.common.Employee;
+import java8.live_examples.common.Departament;
+import java8.live_examples.common.Employee;
+
 
 import java.util.function.Function;
 import java.util.stream.Collectors;

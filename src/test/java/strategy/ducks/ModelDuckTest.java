@@ -1,5 +1,7 @@
 package strategy.ducks;
 
+
+import designPatterns.strategyPattern.ducks.ModelDuck;
 import org.junit.Assert;
 import org.junit.Test;
 

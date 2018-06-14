@@ -1,8 +1,9 @@
 package polymorphism.array.covariance;
 
-import pl.com.empas.java_introductory_course.polymorphism.array.Animal;
-import pl.com.empas.java_introductory_course.polymorphism.array.Cat;
-import pl.com.empas.java_introductory_course.polymorphism.array.Dog;
+
+import polymorphism.array.Animal;
+import polymorphism.array.Cat;
+import polymorphism.array.Dog;
 
 public class SafeArrayCovariance {
 
